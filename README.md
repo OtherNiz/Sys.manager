@@ -1,3 +1,6 @@
+*WARING MAY NOT DISPLAY CORRECT INFORMATION
+*************************************************
+
 # Sys.manager
 A system manager app to use when you want to manage your PC
 -Sys.Manager-
